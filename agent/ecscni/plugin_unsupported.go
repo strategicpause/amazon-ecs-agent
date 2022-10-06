@@ -21,7 +21,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/containernetworking/cni/pkg/types/current"
+	current "github.com/containernetworking/cni/pkg/types/100"
 )
 
 const (

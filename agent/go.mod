@@ -7,7 +7,7 @@ require (
 	github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit v0.0.0-20190829210224-55d4fd2e6f35
 	github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575
 	github.com/containerd/cgroups v1.0.4-0.20220221221032-e710ed6ebb1a
-	github.com/containernetworking/cni v0.8.1
+	github.com/containernetworking/cni v1.1.2
 	github.com/containernetworking/plugins v0.8.6
 	github.com/deniswernert/udev v0.0.0-20140626150257-82fe5be8ca5f
 	github.com/didip/tollbooth v3.0.2+incompatible
@@ -44,7 +44,7 @@ require (
 	github.com/docker/distribution v0.0.0-20181002220433-1cb4180b1a5b // indirect
 	github.com/godbus/dbus/v5 v5.0.6 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang/protobuf v1.5.0 // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.1 // indirect
